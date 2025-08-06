@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Md. Sanaul Islam Siyam and I'm a CSE student at AIUB, from Bangladesh</h2>
 
 ###
 
